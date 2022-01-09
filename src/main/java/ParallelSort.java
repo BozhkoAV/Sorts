@@ -79,7 +79,7 @@ public class ParallelSort {
     }
 
     public static void mySort() throws Exception {
-        /* Всего в моей системе 12 процессоров
+        /* Всего в моей системе 8 процессоров
            int numOfProcessors = Runtime.getRuntime().availableProcessors();
            System.out.println(numOfProcessors); */
 
